@@ -92,6 +92,7 @@ dependencies:
   - fonttools=4.25.0=pyhd3eb1b0_0
   - freetype=2.10.4=hd328e21_0
   - fsspec=2021.10.1=pyhd3eb1b0_0
+  - fsspec=2021.8.1=pyhd3eb1b0_0
   - future=0.18.2=py39haa95532_1
   - get_terminal_size=1.0.0=h38e98db_0
   - gevent=21.8.0=py39h2bbff1b_1
@@ -168,6 +169,7 @@ dependencies:
   - m2w64-gmp=6.1.0=2
   - m2w64-libwinpthread-git=5.0.0.4634.697f757=2
   - markupsafe=1.1.1=py39h2bbff1b_0
+  - markupsafe=2.0.1=py39h2bbff1b_0
   - matplotlib=3.4.3=py39haa95532_0
   - matplotlib-base=3.4.3=py39h49ac443_0
   - matplotlib-inline=0.1.2=pyhd3eb1b0_2
